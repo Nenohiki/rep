@@ -2,8 +2,8 @@
 ### Bem vindo ao meu repositório
 
 <div id="Stats">
-<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=lupesii&count_private=true&show_icons=true&theme=radical&locale=pt-br"/>
-<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lupesii&layout=compact&theme=radical&count_private=true&show_icons=true&locale=pt-br"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=Nenohiki&count_private=true&show_icons=true&theme=radical&locale=pt-br"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nenohiki&layout=compact&theme=radical&count_private=true&show_icons=true&locale=pt-br"/>
 </div>
 
 ##
